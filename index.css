@@ -1,0 +1,19 @@
+.button-default {
+  background-color: aqua;
+}
+
+.button-outline {
+  border-color: aqua;
+}
+
+.button-default-destructive {
+  background-color: red;
+}
+
+.button-outline-destructive {
+  border-color: red;
+}
+
+.item {
+  background-color: bisque;
+}
